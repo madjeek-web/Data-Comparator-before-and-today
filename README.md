@@ -1,9 +1,9 @@
-//**************************************************************
-// MIT PROJECT - Free license - (c) Fabien Conéjéro 2024 / FC84
-// Data Comparator: before and today
-// + search system of information for users
-// values and data can be added to this simple baseline
-//**************************************************************
+____________________________
+MIT PROJECT - Free license - (c) Fabien Conéjéro 2024 / FC84
+Data Comparator: before and today
++ search system of information for users
+values and data can be added to this simple baseline
+____________________________
 
     function Year2023(type, quantity) {
       this.type = type;
