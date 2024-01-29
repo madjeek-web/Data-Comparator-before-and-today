@@ -1,7 +1,7 @@
 ____________________________
 MIT PROJECT - Free license - (c) Fabien Conéjéro 2024 / FC84
 Data Comparator: before and today
-+ search system of information for users
++ search system of information for users - 
 values and data can be added to this simple baseline
 ____________________________
 
