@@ -1,6 +1,6 @@
 ____________________________
 MIT PROJECT - Free license - (c) Fabien Conéjéro 2024 / FC84
-Data Comparator: before and today (JS)
+Data Comparator: before and today ( Javascript )
 + search system of information for users - 
 values and data can be added to this simple baseline
 ____________________________
